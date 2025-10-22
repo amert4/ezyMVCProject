@@ -1,0 +1,2 @@
+# ezymvcproject
+latihan MVC
